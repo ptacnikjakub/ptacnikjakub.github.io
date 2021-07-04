@@ -4,6 +4,12 @@ auto_deploy: true
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: FORESTRY-README.md
+  label: Welcome - First Steps
+  read_only: true
+- type: heading
+  label: Sidebar
 - type: jekyll-pages
   label: Jekyll Pages
   create: all
@@ -12,12 +18,6 @@ sections:
   - full-width-media-element
   - text-column
   - simple-footer
-- type: document
-  path: FORESTRY-README.md
-  label: Welcome - First Steps
-  read_only: true
-- type: heading
-  label: Sidebar
 - type: jekyll-posts
   label: Posts
   create: all
