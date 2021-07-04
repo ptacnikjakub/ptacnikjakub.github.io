@@ -11,8 +11,8 @@ page_sections:
     link_text: Home
   - link: "#services"
     link_text: Services
-  - link: "#customize"
-    link_text: Customize
+  - link: "#contact"
+    link_text: Contact
   - link: "#responsive"
     link_text: Responsive
   - link: "#blocks"
