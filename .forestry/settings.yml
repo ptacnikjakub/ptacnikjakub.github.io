@@ -10,14 +10,6 @@ sections:
   read_only: true
 - type: heading
   label: Sidebar
-- type: jekyll-pages
-  label: Jekyll Pages
-  create: all
-  templates:
-  - navigation-header-w-button
-  - full-width-media-element
-  - text-column
-  - simple-footer
 - type: jekyll-posts
   label: Posts
   create: all
