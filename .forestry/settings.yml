@@ -4,6 +4,15 @@ auto_deploy: true
 admin_path: ''
 webhook_url: 
 sections:
+- type: jekyll-pages
+  label: Jekyll Pages
+  create: all
+  match: "**/*"
+  templates:
+  - navigation-header-w-button
+  - full-width-media-element
+  - text-column
+  - simple-footer
 - type: heading
   label: Sidebar
 - type: document
