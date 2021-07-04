@@ -12,12 +12,12 @@ sections:
   - full-width-media-element
   - text-column
   - simple-footer
-- type: heading
-  label: Sidebar
 - type: document
   path: FORESTRY-README.md
   label: Welcome - First Steps
   read_only: true
+- type: heading
+  label: Sidebar
 - type: jekyll-posts
   label: Posts
   create: all
