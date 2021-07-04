@@ -13,10 +13,6 @@ page_sections:
     link_text: Services
   - link: "#contact"
     link_text: Contact
-  - link: "#responsive"
-    link_text: Responsive
-  - link: "#blocks"
-    link_text: Blocks
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Import
