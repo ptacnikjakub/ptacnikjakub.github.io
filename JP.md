@@ -10,7 +10,7 @@ navigation:
   link_text: Services
 - link: "#about"
   link_text: About
-- link: ''
-  link_text: ''
+- link: "#contact"
+  link_text: Contact
 
 ---
