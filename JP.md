@@ -6,8 +6,8 @@ navigation:
   link_text: Home
 - link: "#about"
   link_text: About
-- link: ''
-  link_text: ''
+- link: "#work"
+  link_text: Work
 - link: ''
   link_text: ''
 
