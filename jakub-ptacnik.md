@@ -1,7 +1,7 @@
 ---
 layout: blocks
-title: Jakub Ptacnik
-date: 2021-07-05 00:00:00 +0200
+title: README
+date: 2021-07-05T00:00:00.000+02:00
 page_sections:
 - template: navigation-header
   block: header-1
