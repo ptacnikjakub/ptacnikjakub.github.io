@@ -9,12 +9,12 @@ page_sections:
   navigation: []
 - template: hero-banner-w-image
   block: hero-2
-  background_image: ''
+  background_image: "/uploads/2021/07/05/87259103_2927276543995183_6696173916513107968_n.jpg"
   image:
     image: ''
     alt_text: ''
-  headline: ''
-  content: ''
+  headline: hero banner image - headline
+  content: hero banner image - content
   cta:
     enabled: false
     url: ''
