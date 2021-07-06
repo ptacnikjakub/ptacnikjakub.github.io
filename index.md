@@ -53,10 +53,10 @@ page_sections:
 - template: signup-bar
   block: cta-bar
   email_recipient: jakub.ptacnik@seznam.cz
-  content: '&lt;form  action="https://formspree.io/f/mqkwlwjo"  method="POST"&gt;  &lt;label&gt;    Your
-    email:    &lt;input type="email" name="_replyto"&gt;  &lt;/label&gt;  &lt;label&gt;    Your
-    message:    &lt;textarea name="message"&gt;&lt;/textarea&gt;  &lt;/label&gt;  &lt;!--
-    your other form fields go here --&gt;  &lt;button type="submit"&gt;Send&lt;/button&gt;&lt;/form&gt;'
+  content: '&lt;form action="https://formspree.io/f/mqkwlwjo" method="POST"&gt; &lt;label&gt;
+    Your email: &lt;input type="email" name="_replyto"&gt; &lt;/label&gt; &lt;label&gt;
+    Your message: &lt;textarea name="message"&gt;&lt;/textarea&gt; &lt;/label&gt;
+    &lt;!-- your other form fields go here --&gt; &lt;button type="submit"&gt;Send&lt;/button&gt;&lt;/form&gt;'
 - template: simple-footer
   block: footer-1
   content: Made with ♥ in Czech Republic. Built using <a href="https://jekyllrb.com/"
