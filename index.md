@@ -59,5 +59,9 @@ page_sections:
   content: Made with ♥ in Czech Republic. Built using <a href="https://jekyllrb.com/"
     title="">Jekyll</a> and <a href="https://forestry.io/" title="">Forestry uBuild.</a>
     Hosted on <a href="https://pages.github.com/" title="">GitHub Pages</a>.
+- template: signup-bar
+  block: cta-bar
+  email_recipient: jakub.ptacnik@seznam.cz
+  content: Signup Bar
 
 ---
