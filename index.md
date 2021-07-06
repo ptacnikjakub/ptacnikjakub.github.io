@@ -56,7 +56,7 @@ page_sections:
   content: "<p>Detail Content Content</p>"
 - template: simple-footer
   block: footer-1
-  content: Made with ♥ in Czech Republic. Build using <a href="https://jekyllrb.com/"
+  content: Made with ♥ in Czech Republic. Built using <a href="https://jekyllrb.com/"
     title="">Jekyll</a> and <a href="https://forestry.io/" title="">Forestry uBuild.</a>
     Hosted on <a href="https://pages.github.com/" title="">GitHub Pages</a>.
 
