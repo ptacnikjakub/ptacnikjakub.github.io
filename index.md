@@ -7,16 +7,22 @@ page_sections:
   block: header-1
   navigation:
   - link: ''
+    link_text: header
+  - link: ''
+    link_text: navigation
+  - link: ''
+    link_text: is
+  - link: ''
     link_text: this
-  logo: ''
+  logo: "/uploads/2021/07/05/depositphotos_183177590-stock-illustration-letters-logo-initial-logo-identity.jpg"
 - template: hero-banner-w-image
   block: hero-2
   background_image: ''
   image:
     image: ''
     alt_text: ''
-  headline: ''
-  content: ''
+  headline: Hello, my name is Jakub Ptacnik.
+  content: I am a cyber security and privacy professional from Prague.
   cta:
     enabled: false
     url: ''
@@ -24,32 +30,34 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    headline: ''
-    slug: ''
-    content: ''
+    headline: Column 1 Headline
+    slug: Column 1 Slug
+    content: Column 1 Content
   col_2:
-    headline: ''
-    slug: ''
-    content: ''
+    headline: Column 2 Headline
+    slug: Column 2 Slug
+    content: Column 2 Content
   col_3:
-    headline: ''
-    slug: ''
-    content: ''
+    headline: Column 3 Headline
+    slug: Column 3 Slug
+    content: Column 3 Content
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: ''
-  slug: ''
-  content: ''
+  headline: Content Feature
+  slug: Content Feature Slug
+  content: Content Feature Content
   media:
-    image: ''
+    image: "/uploads/2018/06/21/forestry-symbol.svg"
     alt_text: ''
 - template: detail-content
   block: text-1
-  headline: ''
-  content: ''
+  headline: Detail Content Headline
+  content: "<p>Detail Content Content</p>"
 - template: simple-footer
   block: footer-1
-  content: ''
+  content: Made with ♥ in Czech Republic. Build using <a href="https://jekyllrb.com/"
+    title="">Jekyll</a> and <a href="https://forestry.io/" title="">Forestry uBuild.</a>
+    Hosted on <a href="https://pages.github.com/" title="">GitHub Pages</a>.
 
 ---
