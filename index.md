@@ -27,6 +27,15 @@ page_sections:
     enabled: true
     url: "#contact"
     button_text: Get in touch
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: CONTENT FEATURE
+  slug: content
+  media:
+    image: "/uploads/2021/07/05/87259103_2927276543995183_6696173916513107968_n.jpg"
+    alt_text: ''
+  content: content-feature content
 - template: 3-column-text
   block: three-column-1
   col_1:
@@ -41,9 +50,6 @@ page_sections:
     headline: Column 3 Headline
     slug: Column 3 Slug
     content: Column 3 Content
-- template: simple-header
-  block: header-3
-  logo: "/uploads/2018/06/21/forestry-full.svg"
 - template: detail-content
   block: text-1
   headline: Detail Content Headline
