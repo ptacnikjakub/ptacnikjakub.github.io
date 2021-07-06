@@ -45,19 +45,13 @@ page_sections:
   block: text-1
   headline: Detail Content Headline
   content: "<p>Detail Content Content</p>"
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: Content Feature
-  slug: contact
-  content: Content Feature Content
-  media:
-    image: "/uploads/2018/06/21/forestry-symbol.svg"
-    alt_text: ''
 - template: signup-bar
   block: cta-bar
   email_recipient: jakub.ptacnik@seznam.cz
-  content: Signup Bar
+  content: '&lt;form  action="https://formspree.io/f/mqkwlwjo"  method="POST"&gt;  &lt;label&gt;    Your
+    email:    &lt;input type="email" name="_replyto"&gt;  &lt;/label&gt;  &lt;label&gt;    Your
+    message:    &lt;textarea name="message"&gt;&lt;/textarea&gt;  &lt;/label&gt;  &lt;!--
+    your other form fields go here --&gt;  &lt;button type="submit"&gt;Send&lt;/button&gt;&lt;/form&gt;'
 - template: simple-footer
   block: footer-1
   content: Made with ♥ in Czech Republic. Built using <a href="https://jekyllrb.com/"
