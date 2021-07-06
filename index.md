@@ -43,7 +43,7 @@ page_sections:
     content: Column 3 Content
 - template: simple-header
   block: header-3
-  logo: ''
+  logo: "/uploads/2018/06/21/forestry-full.svg"
 - template: detail-content
   block: text-1
   headline: Detail Content Headline
