@@ -45,6 +45,11 @@ page_sections:
   block: text-1
   headline: Detail Content Headline
   content: "<p>Detail Content Content</p>"
+- template: 1-column-text
+  block: one-column-1
+  slug: contact
+  headline: Get in touch
+  content: ''
 - template: signup-bar
   block: cta-bar
   email_recipient: jakub.ptacnik@seznam.cz
