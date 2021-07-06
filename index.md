@@ -41,27 +41,27 @@ page_sections:
     headline: Column 3 Headline
     slug: Column 3 Slug
     content: Column 3 Content
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: Content Feature
-  slug: Content Feature Slug
-  content: Content Feature Content
-  media:
-    image: "/uploads/2018/06/21/forestry-symbol.svg"
-    alt_text: ''
 - template: detail-content
   block: text-1
   headline: Detail Content Headline
   content: "<p>Detail Content Content</p>"
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Content Feature
+  slug: contact
+  content: Content Feature Content
+  media:
+    image: "/uploads/2018/06/21/forestry-symbol.svg"
+    alt_text: ''
+- template: signup-bar
+  block: cta-bar
+  email_recipient: jakub.ptacnik@seznam.cz
+  content: Signup Bar
 - template: simple-footer
   block: footer-1
   content: Made with ♥ in Czech Republic. Built using <a href="https://jekyllrb.com/"
     title="">Jekyll</a> and <a href="https://forestry.io/" title="">Forestry uBuild.</a>
     Hosted on <a href="https://pages.github.com/" title="">GitHub Pages</a>.
-- template: signup-bar
-  block: cta-bar
-  email_recipient: jakub.ptacnik@seznam.cz
-  content: Signup Bar
 
 ---
