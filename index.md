@@ -24,9 +24,9 @@ page_sections:
   headline: Hello, my name is Jakub Ptacnik.
   content: I am a cyber security and privacy professional from Prague.
   cta:
-    enabled: false
-    url: ''
-    button_text: ''
+    enabled: true
+    url: "#contact"
+    button_text: Get in touch
 - template: 3-column-text
   block: three-column-1
   col_1:
