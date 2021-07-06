@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: ''
+title: JP
 date: 
 page_sections:
 - template: navigation-header
@@ -57,6 +57,7 @@ page_sections:
     Your email: &lt;input type="email" name="_replyto"&gt; &lt;/label&gt; &lt;label&gt;
     Your message: &lt;textarea name="message"&gt;&lt;/textarea&gt; &lt;/label&gt;
     &lt;!-- your other form fields go here --&gt; &lt;button type="submit"&gt;Send&lt;/button&gt;&lt;/form&gt;'
+  slug: ''
 - template: simple-footer
   block: footer-1
   content: Made with ♥ in Czech Republic. Built using <a href="https://jekyllrb.com/"
