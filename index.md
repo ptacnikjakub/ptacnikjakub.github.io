@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: index
+title: ''
 date: 
 page_sections:
 - template: navigation-header
