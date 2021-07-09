@@ -1,4 +1,29 @@
 ---
 label: hero-banner-text-only
 hide_body: false
-fields: []
+fields:
+- name: hero-banner-text-only
+  type: blocks
+  label: hero-banner-text-only
+  template_types:
+  - hero-banner-w-image
+  config:
+    min: 
+    max: 
+- name: color_picker
+  type: color
+  label: color picker
+  config:
+    required: false
+    color_format: Hex
+- name: text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: text
+pages:
+- 404.md
