@@ -6,13 +6,13 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
-  - link: home
+  - link: "#home"
     link_text: HOME
-  - link: about
+  - link: "#about"
     link_text: ABOUT
-  - link: services
+  - link: "#services"
     link_text: SERVICES
-  - link: contact
+  - link: "#contact"
     link_text: CONTACT
   logo: "/uploads/2021/07/09/jakubptacnik-1.svg"
 - template: hero-banner-w-image
