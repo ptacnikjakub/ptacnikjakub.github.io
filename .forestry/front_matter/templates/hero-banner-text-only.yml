@@ -25,5 +25,3 @@ fields:
     schema:
       format: markdown
   label: text
-pages:
-- 404.md
