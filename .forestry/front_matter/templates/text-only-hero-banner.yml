@@ -15,5 +15,3 @@ fields:
   label: Headline
   name: heading
   hidden: false
-pages:
-- 404.md
