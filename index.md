@@ -6,15 +6,15 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
-  - link: ''
-    link_text: header
-  - link: ''
-    link_text: navigation
-  - link: ''
-    link_text: is
-  - link: ''
-    link_text: this
-  logo: "/uploads/2021/07/05/depositphotos_183177590-stock-illustration-letters-logo-initial-logo-identity.jpg"
+  - link: home
+    link_text: HOME
+  - link: about
+    link_text: ABOUT
+  - link: services
+    link_text: SERVICES
+  - link: contact
+    link_text: CONTACT
+  logo: "/uploads/2021/07/09/jakubptacnik-1.svg"
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
