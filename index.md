@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: JP
+title: ''
 date: 
 page_sections:
 - template: navigation-header
@@ -14,6 +14,8 @@ page_sections:
     link_text: SERVICES
   - link: "#contact"
     link_text: CONTACT
+  - link_text: POSTS
+    link: https://jakubptacnik.com/posts
   logo: "/uploads/2021/07/09/jakubptacnik-1.svg"
 - template: hero-banner-w-image
   block: hero-2
