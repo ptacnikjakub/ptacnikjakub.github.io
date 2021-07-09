@@ -31,7 +31,7 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: CONTENT FEATURE
-  slug: content
+  slug: about
   media:
     image: "/uploads/2021/07/05/87259103_2927276543995183_6696173916513107968_n.jpg"
     alt_text: ''
@@ -50,6 +50,7 @@ page_sections:
     headline: Column 3 Headline
     slug: Column 3 Slug
     content: Column 3 Content
+  slug: services
 - template: detail-content
   block: text-1
   headline: Detail Content Headline
